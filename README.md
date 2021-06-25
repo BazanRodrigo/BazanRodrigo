@@ -31,7 +31,7 @@
 <h3>
 I'm still study the career in computation science at BUAP <img src = "https://user-images.githubusercontent.com/74392270/123147607-ddcc5880-d424-11eb-8653-799e545fa7d0.gif"> 
 
-I started to use GitHub to have a backup of all my code from the homeworks that i did in the High School to the code that I'm developing nowadays, then i study about Git and I learned to use it and know I have all code I do to make some activities a litlle bit easieast, like make draws in c++ with opengl in a code that i made using Pygame. In my repositories, you will find code that I develop using all that I have learned.  
+I started to use GitHub to have a backup of all my code from the homeworks that i did in the High School to the code that I'm developing nowadays, then I study about Git and I learned to use it and know I have all code I do to make some activities a little bit easieast, like make draws in c++ with opengl in a code that I made using Pygame. In my repositories, you will find code that I develop using all that I have learned.  
   
 </h3>
 
